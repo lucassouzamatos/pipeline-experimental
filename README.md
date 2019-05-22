@@ -7,4 +7,4 @@ ao invés de
 
 ```decodeURI('%21')```
 
-[Continue lendo no Médium](...)
+[Continue lendo no Médium](https://medium.com/@lucas.ssouza.mmatos/o-operador-pipeline-e-a-programa%C3%A7%C3%A3o-funcional-c03882b7e265)
